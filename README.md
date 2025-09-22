@@ -1,5 +1,5 @@
 <h4 align="CENTER"> 
-Challenge - Desafio do Amigo Secreto da A
+Challenge - Desafio do Amigo Secreto Oracle One - Alura
 </h4>
 <img width="1898" height="901" alt="Captura de tela 2025-09-21 203728" src="https://github.com/user-attachments/assets/8e0b6fd3-ee38-456c-a1a4-7d996a064c3c" />
 
